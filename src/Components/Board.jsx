@@ -109,7 +109,7 @@ const Board = () => {
   })
 
   return (
-    <div className="mt-32 flex flex-col items-center  py-20 font-bold container mx-auto rounded-xl bg-[url('tic-tac.jpeg')]  " style={{borderRadius:'0px 300px 300px 300px'}}>
+    <div className="mt-32 flex flex-col items-center  py-20 font-bold container mx-auto rounded-xl bg-[url('../../public/tic-tac.jpeg')]  " style={{borderRadius:'0px 300px 300px 300px'}}>
     <div className='flex flex-col items-center '>
       {/* Game Status */}
       <div className='mb-4 text-2xl bg-white px-6 py-4 border-4 border-black rounded-md font-extrabold'>
